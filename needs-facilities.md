@@ -4,7 +4,7 @@ Scenario: Report visitor trends during a week of operation
 
   Given:The data of types of visitors in a week
   When:The week ends
-  Then:The details about the visitors must be recorded
+  Then:The details about the visitors be recorded
 
 Scenario: Alert when seating capacity is full
 
