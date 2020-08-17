@@ -6,7 +6,7 @@ Scenario: Show patient visits during working days and holidays
 
    When:The sensor senses the patient entry assuming separate sensor for patients
 
-   Then:Record the count of patients in the system
+   Then:Record the count of patients in system
 
 Scenario: Compute parking slots to reserve for visiting specialists
 
