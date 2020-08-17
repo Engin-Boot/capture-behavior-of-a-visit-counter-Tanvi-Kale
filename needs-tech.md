@@ -3,7 +3,7 @@
 Scenario: Recover across restarts of the server
 that runs the visit-counter
 
-  Given:The previously recorded data is stored in the system
+  Given:The recorded data is stored in the system
   
   When:The server restarts again and visitors are now allowed
   
@@ -11,7 +11,7 @@ that runs the visit-counter
 
 Scenario: Reconcile counts if the sensor is offline for a while
 
-  Given:The count can be maintained manually
+  Given:The count be maintained manually
   
   When:The sensor is ON again
   
