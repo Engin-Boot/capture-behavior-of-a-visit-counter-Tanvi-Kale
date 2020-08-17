@@ -10,4 +10,4 @@ Scenario: Alert when seating capacity is full
 
   Given:The visitor count
   When:The count exceeds the specified number
-  Then:An alert message must be send to the manager 
+  Then:An alert message must be send to the manager
