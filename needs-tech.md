@@ -5,7 +5,7 @@ that runs the visit-counter
 
   Given:The previously recorded data is stored in the system
   
-  When:The server restarts again and visitors are now allowed 
+  When:The server restarts again and visitors are now allowed
   
   Then:The visit-count starts again
 
