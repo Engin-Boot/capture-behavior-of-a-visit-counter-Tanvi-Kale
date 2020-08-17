@@ -11,7 +11,7 @@ that runs the visit-counter
 
 Scenario: Reconcile counts if the sensor is offline for a while
 
-  Given:The count be maintained manually
+  Given:The count is maintained manually
   
   When:The sensor is ON again
   
